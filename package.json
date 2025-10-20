@@ -79,5 +79,18 @@
     "typescript": "^5.8.3",
     "typescript-eslint": "^8.38.0",
     "vite": "^5.4.19"
-  }
+  },
+  "description": "**URL**: https://lovable.dev/projects/0df8ab9e-ca92-4aa0-b6be-881d59859dd0",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moses1234-eng/forge-core-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moses1234-eng/forge-core-app/issues"
+  },
+  "homepage": "https://github.com/moses1234-eng/forge-core-app#readme"
 }
